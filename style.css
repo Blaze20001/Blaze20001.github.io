@@ -1,0 +1,265 @@
+header{
+    background-color: #323232;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:20px;
+}
+
+a{
+    color:white;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap:20px;
+}
+
+body{
+    background-color: #202020;
+}
+
+.test-one{
+    color: aliceblue;
+    margin-left: 96px;
+    margin-top: -390px;
+    font-size: 42px;
+    font-weight: 410;
+    line-height: 90px;
+    letter-spacing: -0.5px;
+    width: 790px;
+    height: 210px;
+    font-family: 'Manrope', sans-serif;
+}
+
+.test-two{
+    color: #959595;
+    width: 490px;
+    height: 108px;
+    margin-top: 3px;
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 36px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    margin-left: 10px;
+
+    
+}
+
+.man{
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 89px;
+    left: 1200px;
+    vertical-align: text-top;
+ }
+
+ .rectangle{
+    width: 420px;
+    height: 64px;
+    background-color:#9D9D9D;
+    position: relative;
+    top:670px;
+    left: 100px;
+    border-radius: 5px;
+ }
+
+ 
+
+ .rectangle p {
+    color: white;
+    text-align: center;
+    position: relative; 
+    top: 15px;
+    font-size: 23px;
+    font-family: 'Manrope', sans-serif;
+ }
+
+ .featured{
+    position: relative;
+    top: 850px;
+    left: 100px;
+
+ }
+
+ .computer{
+    position: relative;
+    top: 500px;
+    width: 775px;
+    height: 1124px;
+ }
+
+.paper{
+    position: relative;
+    top: 500px;
+    width: 775px;
+    height: 1124px;
+}
+
+.phone{
+    position: relative;
+    left: 795px;
+    width: 775px;
+    height: 1124px;
+    top: -1650px;
+}
+
+.adobexd{
+    position: relative;
+    left: 795px;
+    width: 775px;
+    height: 1124px;
+    top: -1650px;
+}
+
+.visual{
+    position: relative;
+    top: -1300px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 23px;
+    left: 400px;
+}
+
+.cube{
+    position: relative;
+    top: -1200px;
+    width: 507px;
+    height: 517px;
+}
+
+.grey{
+    position: relative;
+    top: -1746px;
+    width: 507px;
+    height: 517px;
+    left: 527px;
+}
+
+.table{
+    position: relative;
+    top: -2292px;
+    width: 507px;
+    height: 517px;
+    left: 1054px;
+
+}
+
+.model{
+    position: relative;
+    top: -2292px;
+    width: 507px;
+    height: 517px;
+    left: 0px;
+}
+
+.ball{
+    position: relative;
+    top: -2838px;
+    width: 507px;
+    height: 517px;
+    left: 527px;   
+}
+
+.windows{
+    position: relative;
+    top: -3384px;
+    width: 507px;
+    height: 517px;
+    left: 1054px;
+
+}
+
+.Projects{
+    position: relative;
+    top: -3050px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Manrope', sans-serif;
+    font-size: 23px;
+    left: 400px;
+}
+
+.flexbox{
+    position: relative;
+    top: -3000px;
+    width: 507px;
+    height: 644px;
+}
+
+.statue{
+    position: relative;
+    top: -3670px;
+    width: 507px;
+    height: 644px;
+    left: 527px;
+}
+
+.hand{
+    position: relative;
+    top: -4340px;
+    width: 507px;
+    height: 644px;
+    left: 1054px;    
+}
+
+.contact{
+    position: relative;
+    top: -4000px;
+    left: 668px;
+    font-family: 'Manrope', sans-serif;
+    size: 40px;
+    font-weight: 700;
+}
+
+.root{
+    position: relative;
+    top: -4000px;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 10px;
+    font-size: 24px;
+    left: 601px;
+    width: 475px;
+    line-height: 40px;
+    color: #959595;
+}
+
+.rectangle2 p {
+    color: white;
+    text-align: center;
+    position: relative; 
+    top: -10px;
+    font-size: 23px;
+    font-family: 'Manrope', sans-serif;
+ }
+
+ .rectangle2{
+    width: 425px;
+    height: 65px;
+    background-color:#9D9D9D;
+    position: relative;
+    top:-3970px;
+    left: 600px;
+    border-radius: 5px;
+
+ }
+
+
+
+
+ 
+
+
+ 
+ 
+
+ 
+
+
+
